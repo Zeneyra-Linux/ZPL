@@ -5,6 +5,7 @@ This license is used for most-to-all Zeneyra Linux-related projects as well as m
 
 ## Goals
 * Easy to read and hopefully short license terms.
+* License or reference to License must be shipped with the product.
 * Allow distribution, modification, commercial and private use, perhaps Patent use too.
 * Permit usage of this license for your own projects, since there can be a loophole where using a license for your own project can get you into issues.
 * Prohibit Warranty and Liability, unless explicitly given by the software vendor.
